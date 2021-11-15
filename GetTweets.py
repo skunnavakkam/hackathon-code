@@ -1,3 +1,3 @@
 
 def get_tweets(handle) -> list:
-    pass
+    print(handle)

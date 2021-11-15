@@ -1,3 +1,4 @@
 
 def get_tweets(handle) -> list:
-    print(handle)
+    
+    print("sudarsh is bad at coding")
